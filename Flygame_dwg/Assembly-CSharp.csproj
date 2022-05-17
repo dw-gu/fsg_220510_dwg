@@ -53,8 +53,9 @@
     <UnityVersion>2020.3.27f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\InpCtrl.cs" />
     <Compile Include="Assets\scrip1.cs" />
-    <Compile Include="Assets\Scripts\script1.cs" />
+    <Compile Include="Assets\Scripts\gamelogic.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
